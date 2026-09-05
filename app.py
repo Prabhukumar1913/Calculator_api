@@ -19,4 +19,4 @@ if ret:
     elif operation=="percent":
         st.write(number1%number2)
     st.write("button is clicked")
-    # st.balloons()
+    st.balloons()
